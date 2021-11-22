@@ -1,0 +1,7 @@
+C:\Users\DNS\source\repos\Practica\obj\Debug\Practica.csprojAssemblyReference.cache
+C:\Users\DNS\source\repos\Practica\obj\Debug\Practica.csproj.CoreCompileInputs.cache
+C:\Users\DNS\source\repos\Practica\bin\Debug\Practica.exe.config
+C:\Users\DNS\source\repos\Practica\bin\Debug\Practica.exe
+C:\Users\DNS\source\repos\Practica\bin\Debug\Practica.pdb
+C:\Users\DNS\source\repos\Practica\obj\Debug\Practica.exe
+C:\Users\DNS\source\repos\Practica\obj\Debug\Practica.pdb
